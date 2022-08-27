@@ -6,10 +6,10 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: Jinsung Son
+  name: Jinsung Kim
   desc: NLP & AI Lab., Korea University
   email: jin62304@korea.ac.kr
-  selfie: assets/img/profile_jinsung.jpeg
+  selfie: assets/img/profile_jinsung.jpg
 
 # social
 social:
