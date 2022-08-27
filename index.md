@@ -39,7 +39,7 @@ Junyoung Son[\*], **Jinsung Kim[\*]**, Jungwoo Lim[\*], and Heuiseok Lim (*: equ
 <br/> 
 * KoCHET: a Korean Cultural Heritage corpus for Entity-related Tasks <br/> 
 <span style="color:rgb(73, 120, 173)"> The 29th International Conference on Computational Linguistics (COLING 2022) </span> <br/> 
-Gyungmin Kim[\*], **Jinsung Kim[\*]**, Junyoung Son[\*], and Heuiseok Lim (*: equal contributions)
+Gyeongmin Kim[\*], **Jinsung Kim[\*]**, Junyoung Son[\*], and Heuiseok Lim (*: equal contributions)
 <br/>
 
 ### International Journal
