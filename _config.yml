@@ -1,15 +1,15 @@
 # Site settings
-title: Junyoung Son
+title: Jinsung Kim
 baseurl: ""
-url: "https://rgop13.github.io"
+url: "https://jin62304.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: Junyoung Son
+  name: Jinsung Son
   desc: NLP & AI Lab., Korea University
-  email: s0ny@korea.ac.kr
-  selfie: assets/img/profile2.jpeg
+  email: jin62304@korea.ac.kr
+  selfie: assets/img/profile_jinsung.jpeg
 
 # social
 social:
@@ -19,11 +19,11 @@ social:
   dribbble:
   facebook:
   flickr:
-  github: rgop13
+  github: jin62304
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/junyoung-son-2836a2183/
+  linkedin: https://www.linkedin.com/in/jinsung-kim-703195178/
   pinterest:
   reddit:
   soundcloud:
