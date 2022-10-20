@@ -9,8 +9,7 @@ Contact: jin62304@korea.ac.kr
 <br/>
 
 # News
-* 10/2022     "You Truly Understand What I Need
-: Intellectual and Friendly Dialogue Agents grounding
+* 10/2022     "You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding
 Knowledge and Persona" is accepted at Findings of EMNLP 2022
 
 # Research Interest
@@ -33,8 +32,7 @@ Knowledge and Persona" is accepted at Findings of EMNLP 2022
 # Publication
 
 ### International Conference
-* You Truly Understand What I Need
-: Intellectual and Friendly Dialogue Agents grounding
+* You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding
 Knowledge and Persona <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 Findings) </span> <br/> 
 Jungwoo Lim, Myuonghoon Kang[\*], Yuna Hur[\*], Seungwon Jung[\*], **Jinsung Kim[\*]**, Yoona Jang, Dongyub Lee, Hyesung Ji, Donghoon Shin, Seungryong Kim, and Heuiseok Lim (*: equal contributions)   
