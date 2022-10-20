@@ -8,10 +8,10 @@ I'm interested in Natural Language Processing, especially in Information Extract
 Contact: jin62304@korea.ac.kr 
 <br/>
 
-# News 
-
-* 08/2022     "GRASP: Guiding model with RelAtional Semantics using Prompt" is accepted at COLING 2022
-* 08/2022     "KoCHET: a Korean Cultural Heritage corpus for Entity-related Tasks" is accepted at COLING 2022
+# News
+* 10/2022     "You Truly Understand What I Need
+: Intellectual and Friendly Dialogue Agents grounding
+Knowledge and Persona" is accepted at Findings of EMNLP 2022
 
 # Research Interest
 * Information Extraction
@@ -33,6 +33,12 @@ Contact: jin62304@korea.ac.kr
 # Publication
 
 ### International Conference
+* You Truly Understand What I Need
+: Intellectual and Friendly Dialogue Agents grounding
+Knowledge and Persona <br/> 
+<span style="color:rgb(73, 120, 173)"> The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 Findings) </span> <br/> 
+Jungwoo Lim, Myuonghoon Kang[\*], Yuna Hur[\*], Seungwon Jung[\*], **Jinsung Kim[\*]**, Yoona Jang, Dongyub Lee, Hyesung Ji, Donghoon Shin, Seungryong Kim, and Heuiseok Lim (*: equal contributions)   
+<br/>
 * GRASP: Guiding model with RelAtional Semantics using Prompt (**Oral Presentation**) <br/> 
 <span style="color:rgb(73, 120, 173)"> The 29th International Conference on Computational Linguistics (COLING 2022) </span> <br/> 
 Junyoung Son[\*], **Jinsung Kim[\*]**, Jungwoo Lim[\*], and Heuiseok Lim (*: equal contributions)   
@@ -49,6 +55,10 @@ Gyeongmin Kim[\*], Junyoung Son[\*], **Jinsung Kim[\*]**, Hyunhee Lee, and Heuis
 <br/>
 
 ### Domestic Conference
+* Domain-specific Korean Relation Extraction system using Prompt with Meta-Information <br/> 
+<span style="color:rgb(73, 120, 173)"> The 34th Annual Conference on Human & Cognitive Language Technology (HCLT 2022) </span> <br/>
+**Jinsung Kim**, Gyeongmin Kim, Junyoung Son, Aram So, and Heuiseok Lim
+<br/>
 * An Effective Segmentation Scheme for Korean Sentence Classification tasks <br/> 
 <span style="color:rgb(73, 120, 173)"> The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT 2021) </span> <br/>
 **Jinsung Kim**, Gyeongmin Kim, Junyoung Son, and Heuiseok Lim
