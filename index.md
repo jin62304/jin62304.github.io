@@ -3,7 +3,7 @@ layout: about
 ---
 [//]: # (Please check my [CV]&#40;https://drive.google.com/file/d/1OIubJzknuk7bAkOjLuTYHHNBPVkzwjoe/view?usp=sharing&#41; and [Google Scholar]&#40;https://scholar.google.com/citations?user=ubIxtk8AAAAJ&hl=ko&#41;! )
 # About Me
-I'm interested in Natural Language Processing, especially in Information Extraction, Dialogue System and Question-Answer pair Generation. <br /> Currently, I am a graduate student and advised by Prof. [Heuiseok Lim](https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&hl=ko&oi=ao)  in the [NLP & AI Lab](http://nlp.korea.ac.kr/). 
+I'm interested in Natural Language Processing, especially in Information Extraction, Dialogue System and Question Answering. <br /> Currently, I am a graduate student and advised by Prof. [Heuiseok Lim](https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&hl=ko&oi=ao)  in the [NLP & AI Lab](http://nlp.korea.ac.kr/). 
 
 Contact: jin62304@korea.ac.kr 
 <br/>
@@ -15,7 +15,7 @@ Knowledge and Persona" is accepted at Findings of EMNLP 2022
 # Research Interest
 * Information Extraction
 * Dialogue System
-* Question-Answer pair Generation
+* Question Answering
 * Natural Language Processing
 * Deep Learning
 <br/>
