@@ -3,19 +3,18 @@ layout: about
 ---
 [//]: # (Please check my [CV]&#40;https://drive.google.com/file/d/1OIubJzknuk7bAkOjLuTYHHNBPVkzwjoe/view?usp=sharing&#41; and [Google Scholar]&#40;https://scholar.google.com/citations?user=ubIxtk8AAAAJ&hl=ko&#41;! )
 # About Me
-I'm interested in Natural Language Processing, especially in Information Extraction, Dialogue System and Question Answering. <br /> Currently, I am a graduate student and advised by Prof. [Heuiseok Lim](https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&hl=ko&oi=ao)  in the [NLP & AI Lab](http://nlp.korea.ac.kr/). 
+I'm interested in Natural Language Processing, especially in Information Extraction, Information Retrieval, and Dialogue System. <br /> Currently, I am a graduate student and advised by Prof. [Heuiseok Lim](https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&hl=ko&oi=ao)  in the [NLP & AI Lab](http://nlp.korea.ac.kr/). 
 
 Contact: jin62304@korea.ac.kr 
 <br/>
 
 # News
-* 10/2022     "You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding
-Knowledge and Persona" is accepted at Findings of EMNLP 2022
+* 05/2023 "Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks" is accepted at Findings of ACL 2023
 
 # Research Interest
 * Information Extraction
+* Information Retrieval
 * Dialogue System
-* Question Answering
 * Natural Language Processing
 * Deep Learning
 <br/>
@@ -32,6 +31,10 @@ Knowledge and Persona" is accepted at Findings of EMNLP 2022
 # Publication
 
 ### International Conference
+* Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks <br/> 
+<span style="color:rgb(73, 120, 173)"> The 61th Annual Meeting of the Association for Computational Linguistics (ACL 2023 Findings) </span> <br/> 
+Sugyeong Eo[\*], Hyeonseok Moon[\*], **Jinsung Kim[\*]**, Yuna Hur, Jeongwook Kim, and Heuiseok Lim (*: equal contributions)   
+<br/>
 * You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding
 Knowledge and Persona <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 Findings) </span> <br/> 
