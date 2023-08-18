@@ -9,7 +9,7 @@ Contact: jin62304@korea.ac.kr
 <br/>
 
 # News
-* 05/2023 "Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks" is accepted at Findings of ACL 2023
+* 08/2023 "Toward Practical Automatic Speech Recognition and Post-Processing: a Call for Explainable Error Benchmark Guideline" is accepted at DMLR Workshop at ICML 2023. 
 
 # Research Interest
 * Information Extraction
@@ -31,6 +31,12 @@ Contact: jin62304@korea.ac.kr
 # Publication
 
 ### International Conference
+* Toward Practical Automatic Speech Recognition and Post-Processing: a Call for Explainable Error Benchmark Guideline <br/> 
+<span style="color:rgb(73, 120, 173)"> Data-centric Machine Learning Research Workshop at ICML 2023
+ (ICML 2023 DMLR Workshop) </span> <br/> 
+Seonmin Koo [\*], Chanjun Park, **Jinsung Kim**, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, and Heuiseok Lim   
+<br/>
+
 * Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks <br/> 
 <span style="color:rgb(73, 120, 173)"> The 61th Annual Meeting of the Association for Computational Linguistics (ACL 2023 Findings) </span> <br/> 
 Sugyeong Eo[\*], Hyeonseok Moon[\*], **Jinsung Kim[\*]**, Yuna Hur, Jeongwook Kim, and Heuiseok Lim (*: equal contributions)   
