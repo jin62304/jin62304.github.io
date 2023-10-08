@@ -45,7 +45,10 @@ Junyoung Son[\*], **Jinsung Kim**[\*], Jungwoo Lim[\*], Yoonna Jang[\*], and Heu
 <span style="color:rgb(73, 120, 173)"> The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023 Findings) </span> <br/> 
 Jungwoo Lim[\*], Myunghoon Kang[\*], **Jinsung Kim**[\*], Jeongwook Kim[\*], Yuna Hur, and Heuiseok Lim (*: equal contributions)
 <br/>
-
+* An Empirical Study on the Length Granularity in Long-Form Question Answering <br/> 
+<span style="color:rgb(73, 120, 173)"> The 18th Asia Pacific International Conference
+on Information Science and Technology (APIC-IST 2023) </span> <br/> 
+Hyeonseok Moon[\*], **Jinsung Kim[\*]**, Kinam Park, Jeongbae Park, and Heuiseok Lim (*: equal contributions) <br/>
 * Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks <br/> 
 <span style="color:rgb(73, 120, 173)"> The 61th Annual Meeting of the Association for Computational Linguistics (ACL 2023 Findings) </span> <br/> 
 Sugyeong Eo[\*], Hyeonseok Moon[\*], **Jinsung Kim[\*]**, Yuna Hur, Jeongwook Kim, and Heuiseok Lim (*: equal contributions) <br/>
@@ -63,7 +66,7 @@ Gyeongmin Kim[\*], **Jinsung Kim[\*]**, Junyoung Son[\*], and Heuiseok Lim (*: e
 
 ### International Journal
 * A Multi-Faceted Exploration Incorporating Question Difficulty in Knowledge Tracing for English Proficiency Assessment <br/> 
-<span style="color:rgb(73, 120, 173)"> Electronics 2023, 12(19), 4171 </span> <br/> 
+<span style="color:rgb(73, 120, 173)"> Electronics, 12(19), 4171, 2023 </span> <br/> 
 **Jinsung Kim[\*]**, Seonmin Koo[\*], and Heuiseok Lim (*: equal contributions) 
 <br/>
 * Enhancing Korean Named Entity Recognition With Linguistic Tokenization Strategies <br/> 
@@ -73,38 +76,38 @@ Gyeongmin Kim[\*], Junyoung Son[\*], **Jinsung Kim[\*]**, Hyunhee Lee, and Heuis
 
 ### Domestic Conference
 * A Comparative Study on Korean Zero-shot Relation Extraction using a Large Language Model (거대 언어 모델을 활용한 한국어 제로샷 관계 추출 비교 연구) <br/> 
-<span style="color:rgb(73, 120, 173)"> The 35th Annual Conference on Human & Cognitive Language Technology (HCLT 2023) </span> <br/>
+<span style="color:rgb(73, 120, 173)"> The 35th Annual Conference on Human & Cognitive Language Technology (HCLT 2023, 한글 및 한국어정보처리 학술대회) </span> <br/>
 **Jinsung Kim**, Gyeongmin Kim, Kinam Park, and Heuiseok Lim
 <br/>
 * Cross-document Relation Extraction using Bridging Context Identification (중간 문맥 식별 및 검색을 활용한 문서간 관계 추출) <br/> 
-<span style="color:rgb(73, 120, 173)"> The 35th Annual Conference on Human & Cognitive Language Technology (HCLT 2023) </span> <br/>
+<span style="color:rgb(73, 120, 173)"> The 35th Annual Conference on Human & Cognitive Language Technology (HCLT 2023, 한글 및 한국어정보처리 학술대회) </span> <br/>
 Junyoung Son, **Jinsung Kim**, Jungwoo Lim, Yoonna Jang, Aram So, and Heuiseok Lim
 <br/>
 * Domain-specific Korean Relation Extraction system using Prompt with Meta-Information (메타 정보를 활용한 프롬프트 기반 도메인 특화 한국어 관계 추출) <br/> 
-<span style="color:rgb(73, 120, 173)"> The 34th Annual Conference on Human & Cognitive Language Technology (HCLT 2022) </span> <br/>
+<span style="color:rgb(73, 120, 173)"> The 34th Annual Conference on Human & Cognitive Language Technology (HCLT 2022, 한글 및 한국어정보처리 학술대회) </span> <br/>
 **Jinsung Kim**, Gyeongmin Kim, Junyoung Son, Aram So, and Heuiseok Lim
 <br/>
 * Methodology of Trigger Generation optimized for Dialogue Relation Extraction task (대화형 관계 추출 태스크에 최적화된 트리거 생성 방법론
 ) <br/> 
-<span style="color:rgb(73, 120, 173)"> The 34th Annual Conference on Human & Cognitive Language Technology (HCLT 2022) </span> <br/>
+<span style="color:rgb(73, 120, 173)"> The 34th Annual Conference on Human & Cognitive Language Technology (HCLT 2022, 한글 및 한국어정보처리 학술대회) </span> <br/>
 Gyeongmin Kim, Junyoung Son, **Jinsung Kim**, Jaechoon Jo, and Heuiseok Lim
 <br/>
 * An Analysis of Named Entity Recognition System using MLM-based Language Transfer Learning (MLM 기반 언어 간 전이학습을 이용한 개체명 인식 방법론 분석) <br/> 
-<span style="color:rgb(73, 120, 173)"> The 34th Annual Conference on Human & Cognitive Language Technology (HCLT 2022) </span> <br/>
+<span style="color:rgb(73, 120, 173)"> The 34th Annual Conference on Human & Cognitive Language Technology (HCLT 2022, 한글 및 한국어정보처리 학술대회) </span> <br/>
 Junyoung Son, Gyeongmin Kim, **Jinsung Kim**, Yuna Hur, and Heuiseok Lim
 <br/>
 * Dialogue Relation Extraction using Dialogue Graph (상호참조 정보와 대화 그래프를 활용한 대화 관계추출 모델
 ) <br/> 
-<span style="color:rgb(73, 120, 173)"> The 34th Annual Conference on Human & Cognitive Language Technology (HCLT 2022) </span> <br/>
+<span style="color:rgb(73, 120, 173)"> The 34th Annual Conference on Human & Cognitive Language Technology (HCLT 2022, 한글 및 한국어정보처리 학술대회) </span> <br/>
 Jungwoo Lim, Junyoung Son, **Jinsung Kim**, Yuna Hur, Jaehyung Seo, Yoonna Jang, Jeongbae Park, and Heuiseok Lim
 <br/>
 * An Effective Segmentation Scheme for Korean Sentence Classification tasks (한국어 문장 분류 태스크에서의 효과적 분절 전략
 ) <br/> 
-<span style="color:rgb(73, 120, 173)"> The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT 2021) </span> <br/>
+<span style="color:rgb(73, 120, 173)"> The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT 2021, 한글 및 한국어정보처리 학술대회) </span> <br/>
 **Jinsung Kim**, Gyeongmin Kim, Junyoung Son, and Heuiseok Lim
 <br/>
 
 ### Domestic Journal
 * A Comparative study on the Effectiveness of Segmentation Strategies for Korean Word and Sentence Classification tasks (한국어 단어 및 문장 분류 태스크를 위한 분절 전략의 효과성 연구) <br/> 
-<span style="color:rgb(73, 120, 173)"> Journal of the Korea Convergence Society (한국융합학회) </span> <br/>
+<span style="color:rgb(73, 120, 173)"> Journal of the Korea Convergence Society (한국융합학회), Volume 12 Issue 12, Pages.39-47, 2021 </span> <br/>
 **Jinsung Kim**, Gyeongmin Kim, Junyoung Son, Jeongbae Park, and Heuiseok Lim
