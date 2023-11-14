@@ -65,6 +65,9 @@ Gyeongmin Kim[\*], **Jinsung Kim[\*]**, Junyoung Son[\*], and Heuiseok Lim (*: e
 <br/>
 
 ### International Journal
+* Prompt Language Learner with Trigger Generation for Dialogue Relation Extraction <br/>
+<span style="color:rgb(73, 120, 173)"> To be published.. </span> <br/>
+**Jinsung Kim[\*]**, Gyeongmin Kim[\*], Junyoung Son[\*], and Heuiseok Lim (*: equal contributions) <br/>
 * A Multi-Faceted Exploration Incorporating Question Difficulty in Knowledge Tracing for English Proficiency Assessment <br/> 
 <span style="color:rgb(73, 120, 173)"> Electronics, 12(19), 4171, 2023 </span> <br/> 
 **Jinsung Kim[\*]**, Seonmin Koo[\*], and Heuiseok Lim (*: equal contributions) 
