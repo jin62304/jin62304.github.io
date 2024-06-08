@@ -3,7 +3,7 @@ layout: about
 ---
 [//]: # (Please check my [CV]&#40;https://drive.google.com/file/d/1OIubJzknuk7bAkOjLuTYHHNBPVkzwjoe/view?usp=sharing&#41; and [Google Scholar]&#40;https://scholar.google.com/citations?user=ubIxtk8AAAAJ&hl=ko&#41;! )
 # About Me
-I'm interested in Natural Language Processing, especially in Information Extraction, Information Retrieval, and Dialogue System. <br /> Currently, I am a graduate student and advised by Prof. [Heuiseok Lim](https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&hl=ko&oi=ao)  in the [NLP & AI Lab](http://nlp.korea.ac.kr/). 
+I'm interested in Natural Language Processing and Deep Learning. <br /> Currently, I am a graduate student and advised by Prof. [Heuiseok Lim](https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&hl=ko&oi=ao)  in the [NLP & AI Lab](http://nlp.korea.ac.kr/). 
 
 Contact: jin62304@korea.ac.kr 
 <br/>
