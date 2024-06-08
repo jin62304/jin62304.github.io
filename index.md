@@ -9,15 +9,13 @@ Contact: jin62304@korea.ac.kr
 <br/>
 
 # News
-* 10/2023 "KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing" has been accepted to EMNLP 2023. 
-* 10/2023 "Explore the Way: Exploring Reasoning Path by Bridging Entities for Effective Cross-Document Relation Extraction" has been accepted to the Findings of EMNLP 2023.
-* 10/2023 "Beyond Candidates : Adaptive Dialogue Agent Utilizing Persona and Knowledge" has been accepted to the Findings of EMNLP 2023.
+* 06/2024 "A Large-Scale Dataset for Korean Document-level Relation Extraction from Encyclopedia Texts" has been accepted to <span style="color:rgb(73, 120, 173)">Applied Intelligence</span>. 
 
 # Research Interest
-* Information Extraction
-* Information Retrieval
+* Information Extraction and Retrieval
 * Dialogue System
 * Natural Language Processing
+* Large Language Model
 * Deep Learning
 <br/>
 
@@ -65,6 +63,9 @@ Gyeongmin Kim[\*], **Jinsung Kim[\*]**, Junyoung Son[\*], and Heuiseok Lim (*: e
 <br/>
 
 ### International Journal
+* A Large-Scale Dataset for Korean Document-level Relation Extraction from Encyclopedia Texts <br/>
+<span style="color:rgb(73, 120, 173)"> Applied Intelligence, vol. x, xx-xx, 2024 </span> <br/>
+Suhyune Son, Jungwoo Lim, Seonmin Koo, **Jinsung Kim**, Younghoon Kim, Youngsik  Lim, Dongseok Hyun, and Heuiseok Lim
 * Prompt Language Learner with Trigger Generation for Dialogue Relation Extraction <br/>
 <span style="color:rgb(73, 120, 173)"> Applied Sciences, 13(22), 12414, 2023 </span> <br/>
 **Jinsung Kim[\*]**, Gyeongmin Kim[\*], Junyoung Son[\*], and Heuiseok Lim (*: equal contributions) <br/>
