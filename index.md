@@ -35,7 +35,7 @@ Contact: jin62304@korea.ac.kr
 * Revisiting Under-represented Knowledge of Latin American Literature in Large Language Models <br/> 
 <span style="color:rgb(73, 120, 173)"> The 27th European Conference on Artificial Intelligence (ECAI 2024 Main)
  </span> <br/> 
-**Jinsung Kim**, Seonmin Koo, and Heuiseok Lim <br/>
+**Jinsung Kim**[\*], Seonmin Koo[\*], and Heuiseok Lim (*: equal contributions) <br/> 
 * KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023 Main)
  </span> <br/> 
