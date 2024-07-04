@@ -9,28 +9,33 @@ Contact: jin62304@korea.ac.kr
 <br/>
 
 # News
-* 06/2024 "A Large-Scale Dataset for Korean Document-level Relation Extraction from Encyclopedia Texts" has been accepted to <span style="color:rgb(73, 120, 173)">Applied Intelligence</span>. 
+* 07/2024 "Revisiting Under-represented Knowledge of Latin American Literature in Large Language Models" has been accepted to <span style="color:rgb(73, 120, 173)">ECAI 2024</span>. 
 
 # Research Interest
 * Information Extraction and Retrieval
 * Dialogue System
-* Natural Language Processing
 * Large Language Model
+* Natural Language Processing
 * Deep Learning
 <br/>
 
 # Education
 * Korea University (2021/03 ~ )
   * M.S & Ph.D in Computer Science & Engineering
+  * Artificial Intelligence Applications
 
 * Korea University (2013/03 ~ 2019/02)
   * B.S in Spanish Language & Literature
-  * Double Major in Language, Brain & Computer
+  * Double majored in Language, Brain & Computer
 <br/>
 
 # Publications
 
 ### International Conference
+* Revisiting Under-represented Knowledge of Latin American Literature in Large Language Models <br/> 
+<span style="color:rgb(73, 120, 173)"> The 27th European Conference on Artificial Intelligence (ECAI 2024 Main)
+ </span> <br/> 
+**Jinsung Kim**, Seonmin Koo, and Heuiseok Lim <br/>
 * KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023 Main)
  </span> <br/> 
@@ -64,7 +69,7 @@ Gyeongmin Kim[\*], **Jinsung Kim[\*]**, Junyoung Son[\*], and Heuiseok Lim (*: e
 
 ### International Journal
 * A Large-Scale Dataset for Korean Document-level Relation Extraction from Encyclopedia Texts <br/>
-<span style="color:rgb(73, 120, 173)"> Applied Intelligence, vol. x, xx-xx, 2024 </span> <br/>
+<span style="color:rgb(73, 120, 173)"> Applied Intelligence, open access, 2024 </span> <br/>
 Suhyune Son, Jungwoo Lim, Seonmin Koo, **Jinsung Kim**, Younghoon Kim, Youngsik  Lim, Dongseok Hyun, and Heuiseok Lim
 * Prompt Language Learner with Trigger Generation for Dialogue Relation Extraction <br/>
 <span style="color:rgb(73, 120, 173)"> Applied Sciences, 13(22), 12414, 2023 </span> <br/>
