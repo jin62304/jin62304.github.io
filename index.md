@@ -9,13 +9,15 @@ Contact: jin62304@korea.ac.kr
 <br/>
 
 # News
-* 07/2024 "Revisiting Under-represented Knowledge of Latin American Literature in Large Language Models" has been accepted to <span style="color:rgb(73, 120, 173)">ECAI 2024</span>. 
+* 09/2024 "PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models" has been accepted to <span style="color:rgb(73, 120, 173)">EMNLP 2024</span>.
+* 09/2024 "Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts" has been accepted to <span style="color:rgb(73, 120, 173)">EMNLP 2024</span>.
+* 09/2024 "Search if you don't know! Knowledge-Augmented Korean Grammatical Error Correction with Large Language Models" has been accepted to <span style="color:rgb(73, 120, 173)">Findings of EMNLP 2024</span>.
 
 # Research Interest
-* Information Extraction and Retrieval
-* Dialogue System
-* Large Language Model
 * Natural Language Processing
+* Dialogue System
+* Information Extraction and Retrieval
+* Large Language Model
 * Deep Learning
 <br/>
 
@@ -23,6 +25,7 @@ Contact: jin62304@korea.ac.kr
 * Korea University (2021/03 ~ )
   * M.S & Ph.D in Computer Science & Engineering
   * Artificial Intelligence Applications
+  * Natural Language Processing
 
 * Korea University (2013/03 ~ 2019/02)
   * B.S in Spanish Language & Literature
@@ -32,39 +35,53 @@ Contact: jin62304@korea.ac.kr
 # Publications
 
 ### International Conference
+* PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models <br/> 
+<span style="color:rgb(73, 120, 173)"> The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Main)
+ </span> <br/> 
+**Jinsung Kim**, Seonmin Koo, and Heuiseok Lim 
+ <br/>
+* Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts
+ <br/> 
+<span style="color:rgb(73, 120, 173)"> The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Main)
+ </span> <br/> 
+Seonmin Koo, **Jinsung Kim**, YoungJoon Jang, Chanjun Park, and Heuiseok Lim <br/>
+* Search if you don't know! Knowledge-Augmented Korean Grammatical Error Correction with Large Language Models <br/> 
+<span style="color:rgb(73, 120, 173)"> The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Findings)
+ </span> <br/> 
+Seonmin Koo, **Jinsung Kim**, Chanjun Park, and Heuiseok Lim <br/>
 * Revisiting Under-represented Knowledge of Latin American Literature in Large Language Models <br/> 
 <span style="color:rgb(73, 120, 173)"> The 27th European Conference on Artificial Intelligence (ECAI 2024 Main)
  </span> <br/> 
-**Jinsung Kim**[\*], Seonmin Koo[\*], and Heuiseok Lim (*: equal contributions) <br/> 
+**Jinsung Kim**, Seonmin Koo, and Heuiseok Lim <br/> 
 * KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023 Main)
  </span> <br/> 
 Seonmin Koo, Chanjun Park, **Jinsung Kim**, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, and Heuiseok Lim <br/>
 * Explore the Way: Exploring Reasoning Path by Bridging Entities for Effective Cross-Document Relation Extraction <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023 Findings) </span> <br/> 
-Junyoung Son[\*], **Jinsung Kim**[\*], Jungwoo Lim[\*], Yoonna Jang[\*], and Heuiseok Lim (*: equal contributions)
+Junyoung Son, **Jinsung Kim**, Jungwoo Lim, Yoonna Jang, and Heuiseok Lim (*: equal contributions)
 <br/>
 * Beyond Candidates : Adaptive Dialogue Agent Utilizing Persona and Knowledge <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023 Findings) </span> <br/> 
-Jungwoo Lim[\*], Myunghoon Kang[\*], **Jinsung Kim**[\*], Jeongwook Kim[\*], Yuna Hur, and Heuiseok Lim (*: equal contributions)
+Jungwoo Lim, Myunghoon Kang, **Jinsung Kim**, Jeongwook Kim, Yuna Hur, and Heuiseok Lim
 <br/>
 * An Empirical Study on the Length Granularity in Long-Form Question Answering <br/> 
 <span style="color:rgb(73, 120, 173)"> The 18th Asia Pacific International Conference
 on Information Science and Technology (APIC-IST 2023) </span> <br/> 
-Hyeonseok Moon[\*], **Jinsung Kim[\*]**, Kinam Park, Jeongbae Park, and Heuiseok Lim (*: equal contributions) <br/>
+Hyeonseok Moon, **Jinsung Kim**, Kinam Park, Jeongbae Park, and Heuiseok Lim <br/>
 * Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks <br/> 
 <span style="color:rgb(73, 120, 173)"> The 61th Annual Meeting of the Association for Computational Linguistics (ACL 2023 Findings) </span> <br/> 
-Sugyeong Eo[\*], Hyeonseok Moon[\*], **Jinsung Kim[\*]**, Yuna Hur, Jeongwook Kim, and Heuiseok Lim (*: equal contributions) <br/>
+Sugyeong Eo, Hyeonseok Moon, **Jinsung Kim**, Yuna Hur, Jeongwook Kim, and Heuiseok Lim <br/>
 * You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding
 Knowledge and Persona <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 Findings) </span> <br/> 
-Jungwoo Lim, Myunghoon Kang[\*], Yuna Hur[\*], Seungwon Jung[\*], **Jinsung Kim[\*]**, Yoona Jang, Dongyub Lee, Hyesung Ji, Donghoon Shin, Seungryong Kim, and Heuiseok Lim (*: equal contributions) <br/>
-* GRASP: Guiding model with RelAtional Semantics using Prompt (**Oral Presentation**) <br/> 
+Jungwoo Lim, Myunghoon Kang, Yuna Hur, Seungwon Jung, **Jinsung Kim**, Yoona Jang, Dongyub Lee, Hyesung Ji, Donghoon Shin, Seungryong Kim, and Heuiseok Lim <br/>
+* GRASP: Guiding model with RelAtional Semantics using Prompt <br/> 
 <span style="color:rgb(73, 120, 173)"> The 29th International Conference on Computational Linguistics (COLING 2022) </span> <br/> 
-Junyoung Son[\*], **Jinsung Kim[\*]**, Jungwoo Lim[\*], and Heuiseok Lim (*: equal contributions) <br/> 
+Junyoung Son, **Jinsung Kim**, Jungwoo Lim, and Heuiseok Lim <br/> 
 * KoCHET: a Korean Cultural Heritage corpus for Entity-related Tasks <br/> 
 <span style="color:rgb(73, 120, 173)"> The 29th International Conference on Computational Linguistics (COLING 2022) </span> <br/> 
-Gyeongmin Kim[\*], **Jinsung Kim[\*]**, Junyoung Son[\*], and Heuiseok Lim (*: equal contributions)
+Gyeongmin Kim, **Jinsung Kim**, Junyoung Son, and Heuiseok Lim
 <br/>
 
 ### International Journal
