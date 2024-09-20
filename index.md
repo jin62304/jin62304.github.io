@@ -90,14 +90,14 @@ Gyeongmin Kim, **Jinsung Kim**, Junyoung Son, and Heuiseok Lim
 Suhyune Son, Jungwoo Lim, Seonmin Koo, **Jinsung Kim**, Younghoon Kim, Youngsik  Lim, Dongseok Hyun, and Heuiseok Lim
 * Prompt Language Learner with Trigger Generation for Dialogue Relation Extraction <br/>
 <span style="color:rgb(73, 120, 173)"> Applied Sciences, 13(22), 12414, 2023 </span> <br/>
-**Jinsung Kim[\*]**, Gyeongmin Kim[\*], Junyoung Son[\*], and Heuiseok Lim (*: equal contributions) <br/>
+**Jinsung Kim**, Gyeongmin Kim, Junyoung Son, and Heuiseok Lim<br/>
 * A Multi-Faceted Exploration Incorporating Question Difficulty in Knowledge Tracing for English Proficiency Assessment <br/> 
 <span style="color:rgb(73, 120, 173)"> Electronics, 12(19), 4171, 2023 </span> <br/> 
-**Jinsung Kim[\*]**, Seonmin Koo[\*], and Heuiseok Lim (*: equal contributions) 
+**Jinsung Kim**, Seonmin Koo, and Heuiseok Lim 
 <br/>
 * Enhancing Korean Named Entity Recognition With Linguistic Tokenization Strategies <br/> 
 <span style="color:rgb(73, 120, 173)"> IEEE Access, vol. 9, pp. 151814-151823, 2021 </span> <br/> 
-Gyeongmin Kim[\*], Junyoung Son[\*], **Jinsung Kim[\*]**, Hyunhee Lee, and Heuiseok Lim (*: equal contributions) 
+Gyeongmin Kim, Junyoung Son, **Jinsung Kim**, Hyunhee Lee, and Heuiseok Lim  
 <br/>
 
 ### Domestic Conference
