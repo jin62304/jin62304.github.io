@@ -22,14 +22,14 @@ Contact: jin62304@korea.ac.kr
 <br/>
 
 # Education
-* Korea University (2021/03 ~ )
-  * M.S & Ph.D in Computer Science & Engineering
-  * Artificial Intelligence Applications
-  * Natural Language Processing
+* Korea University (2021/03 - Present)
+  * Ph.D. Candidate
+  * The Integrated Master & Ph.D. Course in Computer Science & Engineering
+  * Artificial Intelligence Applications - Natural Language Processing
 
-* Korea University (2013/03 ~ 2019/02)
-  * B.S in Spanish Language & Literature
-  * Double majored in Language, Brain & Computer
+* Korea University (2013/03 - 2019/02)
+  * B.S Degree Graduate in Spanish Language & Literature
+  * Double majored in Language, Brain & Computer (LB & C)
 <br/>
 
 # Publications
@@ -101,6 +101,16 @@ Gyeongmin Kim, Junyoung Son, **Jinsung Kim**, Hyunhee Lee, and Heuiseok Lim
 <br/>
 
 ### Domestic Conference
+* Exploring Korean Question Answering Ability of Large Language Model by Question Corruption (질의 변형에 따른 거대 언어모델의 한국어 질의응답 능력 연구)<br/>
+<span style="color:rgb(73, 120, 173)"> The 36th Annual Conference on Human & Cognitive Language Technology (HCLT 2024, 한글 및 한국어정보처리 학술대회) </span> <br/>
+**Jinsung Kim**, Seonmin Koo, Kinam Park, and Heuiseok Lim
+<br/>
+* Examining the Ability of Large Language Model on Entity-Based Korean Question-Answering (엔티티 기반 추론을 통한 거대 언어 모델의 한국어 질의응답 능력 연구)<br/>
+<span style="color:rgb(73, 120, 173)">The 36th Annual Conference on Human & Cognitive Language Technology (HCLT 2024, 한글 및 한국어정보처리 학술대회)</span> <br/>
+Seonmin Koo, **Jinsung Kim**, Chanjun Park, Kinam Park, and Heuiseok Lim
+* Mixture of Models: Towards Effective Domain Expert Ensemble of Large Language Models (Mixture of Models: 거대 언어모델 기반 효과적 도메인 전문가 앙상블 기법 연구)<br/>
+<span style="color:rgb(73, 120, 173)">The 36th Annual Conference on Human & Cognitive Language Technology (HCLT 2024, 한글 및 한국어정보처리 학술대회)</span> <br/>
+Seonmin Koo, Sugyeong Eo, **Jinsung Kim**, Seongtae Hong, Sangyoon Jun, Hoondong Kim, and Heuiseok Lim
 * A Comparative Study on Korean Zero-shot Relation Extraction using a Large Language Model (거대 언어 모델을 활용한 한국어 제로샷 관계 추출 비교 연구) <br/> 
 <span style="color:rgb(73, 120, 173)"> The 35th Annual Conference on Human & Cognitive Language Technology (HCLT 2023, 한글 및 한국어정보처리 학술대회) </span> <br/>
 **Jinsung Kim**, Gyeongmin Kim, Kinam Park, and Heuiseok Lim
