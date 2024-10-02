@@ -89,7 +89,7 @@ Gyeongmin Kim, **Jinsung Kim**, Junyoung Son, and Heuiseok Lim
 
 ### International Journal
 * A Large-Scale Dataset for Korean Document-level Relation Extraction from Encyclopedia Texts <br/>
-<span style="color:rgb(73, 120, 173)"> Applied Intelligence, open access, 2024 </span> <br/>
+<span style="color:rgb(73, 120, 173)"> Applied Intelligence, vol. 54, pp.8681-8701, 2024 </span> <br/>
 Suhyune Son, Jungwoo Lim, Seonmin Koo, **Jinsung Kim**, Younghoon Kim, Youngsik  Lim, Dongseok Hyun, and Heuiseok Lim
 * Prompt Language Learner with Trigger Generation for Dialogue Relation Extraction <br/>
 <span style="color:rgb(73, 120, 173)"> Applied Sciences, 13(22), 12414, 2023 </span> <br/>
@@ -113,7 +113,7 @@ Gyeongmin Kim, Junyoung Son, **Jinsung Kim**, Hyunhee Lee, and Heuiseok Lim
 Seonmin Koo, **Jinsung Kim**, Chanjun Park, Kinam Park, and Heuiseok Lim
 * Mixture of Models: Towards Effective Domain Expert Ensemble of Large Language Models (Mixture of Models: 거대 언어모델 기반 효과적 도메인 전문가 앙상블 기법 연구)<br/>
 <span style="color:rgb(73, 120, 173)">The 36th Annual Conference on Human & Cognitive Language Technology (HCLT 2024, 한글 및 한국어정보처리 학술대회)</span> <br/>
-Seonmin Koo, Sugyeong Eo, **Jinsung Kim**, Seongtae Hong, Sangyoon Jun, Hoondong Kim, and Heuiseok Lim
+Kyuho Shim, Sugyeong Eo, **Jinsung Kim**, Seongtae Hong, Sangyoon Jun, Hoondong Kim, and Heuiseok Lim
 * A Comparative Study on Korean Zero-shot Relation Extraction using a Large Language Model (거대 언어 모델을 활용한 한국어 제로샷 관계 추출 비교 연구) <br/> 
 <span style="color:rgb(73, 120, 173)"> The 35th Annual Conference on Human & Cognitive Language Technology (HCLT 2023, 한글 및 한국어정보처리 학술대회) </span> <br/>
 **Jinsung Kim**, Gyeongmin Kim, Kinam Park, and Heuiseok Lim
