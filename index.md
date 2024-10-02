@@ -59,19 +59,22 @@ Seonmin Koo, **Jinsung Kim**, Chanjun Park, and Heuiseok Lim <br/>
 Seonmin Koo, Chanjun Park, **Jinsung Kim**, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, and Heuiseok Lim <br/>
 * Explore the Way: Exploring Reasoning Path by Bridging Entities for Effective Cross-Document Relation Extraction <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023 Findings) </span> <br/> 
-Junyoung Son, **Jinsung Kim**, Jungwoo Lim, Yoonna Jang, and Heuiseok Lim (*: equal contributions)
+Junyoung Son, **Jinsung Kim**, Jungwoo Lim, Yoonna Jang, and Heuiseok Lim
 <br/>
 * Beyond Candidates : Adaptive Dialogue Agent Utilizing Persona and Knowledge <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023 Findings) </span> <br/> 
 Jungwoo Lim, Myunghoon Kang, **Jinsung Kim**, Jeongwook Kim, Yuna Hur, and Heuiseok Lim
 <br/>
+* Toward Practical Automatic Speech Recognition and Post-Processing: a Call for Explainable Error Benchmark Guideline <br/>
+<span style="color:rgb(73, 120, 173)"> International Conference on Machine Learning 2023 – DataPerf workshop (ICML 2023 Workshop) </span> <br/>
+Seonmin Koo, Chanjun Park, **Jinsung Kim**, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim
+* Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks <br/> 
+<span style="color:rgb(73, 120, 173)"> The 61th Annual Meeting of the Association for Computational Linguistics (ACL 2023 Findings) </span> <br/> 
+Sugyeong Eo, Hyeonseok Moon, **Jinsung Kim**, Yuna Hur, Jeongwook Kim, and Heuiseok Lim <br/>
 * An Empirical Study on the Length Granularity in Long-Form Question Answering <br/> 
 <span style="color:rgb(73, 120, 173)"> The 18th Asia Pacific International Conference
 on Information Science and Technology (APIC-IST 2023) </span> <br/> 
 Hyeonseok Moon, **Jinsung Kim**, Kinam Park, Jeongbae Park, and Heuiseok Lim <br/>
-* Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks <br/> 
-<span style="color:rgb(73, 120, 173)"> The 61th Annual Meeting of the Association for Computational Linguistics (ACL 2023 Findings) </span> <br/> 
-Sugyeong Eo, Hyeonseok Moon, **Jinsung Kim**, Yuna Hur, Jeongwook Kim, and Heuiseok Lim <br/>
 * You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding
 Knowledge and Persona <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 Findings) </span> <br/> 
