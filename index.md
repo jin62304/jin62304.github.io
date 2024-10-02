@@ -66,7 +66,7 @@ Junyoung Son, **Jinsung Kim**, Jungwoo Lim, Yoonna Jang, and Heuiseok Lim
 Jungwoo Lim, Myunghoon Kang, **Jinsung Kim**, Jeongwook Kim, Yuna Hur, and Heuiseok Lim
 <br/>
 * Toward Practical Automatic Speech Recognition and Post-Processing: a Call for Explainable Error Benchmark Guideline <br/>
-<span style="color:rgb(73, 120, 173)"> International Conference on Machine Learning 2023 – DataPerf workshop (ICML 2023 Workshop) </span> <br/>
+<span style="color:rgb(73, 120, 173)"> 2023 International Conference on Machine Learning – DataPerf workshop (ICML 2023 Workshop) </span> <br/>
 Seonmin Koo, Chanjun Park, **Jinsung Kim**, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim
 * Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks <br/> 
 <span style="color:rgb(73, 120, 173)"> The 61th Annual Meeting of the Association for Computational Linguistics (ACL 2023 Findings) </span> <br/> 
