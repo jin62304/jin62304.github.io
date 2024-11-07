@@ -5,7 +5,7 @@ layout: about
 # About Me
 I'm interested in Natural Language Processing and Deep Learning. <br /> Currently, I am a graduate student and advised by Prof. [Heuiseok Lim](https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&hl=ko&oi=ao)  in the [NLP & AI Lab](http://nlp.korea.ac.kr/). 
 
-Contact: jin62304@korea.ac.kr 
+**Contact: jin62304@gmail.com**
 <br/>
 
 # News
@@ -25,7 +25,7 @@ Contact: jin62304@korea.ac.kr
 * Korea University (2021/03 - Present)
   * Ph.D. Candidate
   * The Integrated Master & Ph.D. Course in Computer Science & Engineering
-  * Artificial Intelligence Applications - Natural Language Processing
+  * Natural Language Processing and Artificial Intelligence Applications 
 
 * Korea University (2013/03 - 2019/02)
   * B.S Degree Graduate in Spanish Language & Literature
@@ -36,7 +36,7 @@ Contact: jin62304@korea.ac.kr
 
 ### International Conference
 * PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models <br/> 
-<span style="color:rgb(73, 120, 173)"> The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Main)
+<span style="color:rgb(73, 120, 173)"> The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Main, Oral)
  </span> <br/> 
 **Jinsung Kim**, Seonmin Koo, and Heuiseok Lim 
  <br/>
@@ -50,7 +50,7 @@ Seonmin Koo, **Jinsung Kim**, YoungJoon Jang, Chanjun Park, and Heuiseok Lim <br
  </span> <br/> 
 Seonmin Koo, **Jinsung Kim**, Chanjun Park, and Heuiseok Lim <br/>
 * Revisiting Under-represented Knowledge of Latin American Literature in Large Language Models <br/> 
-<span style="color:rgb(73, 120, 173)"> The 27th European Conference on Artificial Intelligence (ECAI 2024 Main)
+<span style="color:rgb(73, 120, 173)"> The 27th European Conference on Artificial Intelligence (ECAI 2024 Main, Oral)
  </span> <br/> 
 **Jinsung Kim**, Seonmin Koo, and Heuiseok Lim <br/> 
 * KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing <br/> 
@@ -80,7 +80,7 @@ Knowledge and Persona <br/>
 <span style="color:rgb(73, 120, 173)"> The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 Findings) </span> <br/> 
 Jungwoo Lim, Myunghoon Kang, Yuna Hur, Seungwon Jung, **Jinsung Kim**, Yoona Jang, Dongyub Lee, Hyesung Ji, Donghoon Shin, Seungryong Kim, and Heuiseok Lim <br/>
 * GRASP: Guiding model with RelAtional Semantics using Prompt <br/> 
-<span style="color:rgb(73, 120, 173)"> The 29th International Conference on Computational Linguistics (COLING 2022) </span> <br/> 
+<span style="color:rgb(73, 120, 173)"> The 29th International Conference on Computational Linguistics (COLING 2022, Oral) </span> <br/> 
 Junyoung Son, **Jinsung Kim**, Jungwoo Lim, and Heuiseok Lim <br/> 
 * KoCHET: a Korean Cultural Heritage corpus for Entity-related Tasks <br/> 
 <span style="color:rgb(73, 120, 173)"> The 29th International Conference on Computational Linguistics (COLING 2022) </span> <br/> 
