@@ -150,3 +150,8 @@ Jungwoo Lim, Junyoung Son, **Jinsung Kim**, Yuna Hur, Jaehyung Seo, Yoonna Jang,
 * A Comparative study on the Effectiveness of Segmentation Strategies for Korean Word and Sentence Classification tasks (한국어 단어 및 문장 분류 태스크를 위한 분절 전략의 효과성 연구) <br/> 
 <span style="color:rgb(73, 120, 173)"> Journal of the Korea Convergence Society (한국융합학회), Volume 12 Issue 12, Pages.39-47, 2021 </span> <br/>
 **Jinsung Kim**, Gyeongmin Kim, Junyoung Son, Jeongbae Park, and Heuiseok Lim
+
+---
+layout: Projects
+---
+### KT
