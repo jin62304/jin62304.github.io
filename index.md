@@ -23,8 +23,7 @@ I'm interested in Natural Language Processing and Deep Learning. <br /> Currentl
 
 # Education
 * Korea University (2021/03 - Present)
-  * Ph.D. Candidate
-  * The Integrated Master & Ph.D. Course in Computer Science & Engineering
+  * Ph.D. Candidate in Computer Science & Engineering
   * Natural Language Processing and Artificial Intelligence Applications 
 
 * Korea University (2013/03 - 2019/02)
@@ -36,7 +35,7 @@ I'm interested in Natural Language Processing and Deep Learning. <br /> Currentl
 
 ### International Conference
 * PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models <br/> 
-<span style="color:rgb(73, 120, 173)"> The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Main, Oral)
+<span style="color:rgb(73, 120, 173)"> The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Main, Oral Presentation)
  </span> <br/> 
 **Jinsung Kim**, Seonmin Koo, and Heuiseok Lim 
  <br/>
@@ -50,7 +49,7 @@ Seonmin Koo, **Jinsung Kim**, YoungJoon Jang, Chanjun Park, and Heuiseok Lim <br
  </span> <br/> 
 Seonmin Koo, **Jinsung Kim**, Chanjun Park, and Heuiseok Lim <br/>
 * Revisiting Under-represented Knowledge of Latin American Literature in Large Language Models <br/> 
-<span style="color:rgb(73, 120, 173)"> The 27th European Conference on Artificial Intelligence (ECAI 2024 Main, Oral)
+<span style="color:rgb(73, 120, 173)"> The 27th European Conference on Artificial Intelligence (ECAI 2024 Main, Oral Presentation)
  </span> <br/> 
 **Jinsung Kim**, Seonmin Koo, and Heuiseok Lim <br/> 
 * KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing <br/> 
@@ -71,16 +70,12 @@ Seonmin Koo, Chanjun Park, **Jinsung Kim**, Jaehyung Seo, Sugyeong Eo, Hyeonseok
 * Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks <br/> 
 <span style="color:rgb(73, 120, 173)"> The 61th Annual Meeting of the Association for Computational Linguistics (ACL 2023 Findings) </span> <br/> 
 Sugyeong Eo, Hyeonseok Moon, **Jinsung Kim**, Yuna Hur, Jeongwook Kim, and Heuiseok Lim <br/>
-* An Empirical Study on the Length Granularity in Long-Form Question Answering <br/> 
-<span style="color:rgb(73, 120, 173)"> The 18th Asia Pacific International Conference
-on Information Science and Technology (APIC-IST 2023) </span> <br/> 
-Hyeonseok Moon, **Jinsung Kim**, Kinam Park, Jeongbae Park, and Heuiseok Lim <br/>
 * You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding
 Knowledge and Persona <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 Findings) </span> <br/> 
 Jungwoo Lim, Myunghoon Kang, Yuna Hur, Seungwon Jung, **Jinsung Kim**, Yoona Jang, Dongyub Lee, Hyesung Ji, Donghoon Shin, Seungryong Kim, and Heuiseok Lim <br/>
 * GRASP: Guiding model with RelAtional Semantics using Prompt <br/> 
-<span style="color:rgb(73, 120, 173)"> The 29th International Conference on Computational Linguistics (COLING 2022, Oral) </span> <br/> 
+<span style="color:rgb(73, 120, 173)"> The 29th International Conference on Computational Linguistics (COLING 2022, Oral Presentation) </span> <br/> 
 Junyoung Son, **Jinsung Kim**, Jungwoo Lim, and Heuiseok Lim <br/> 
 * KoCHET: a Korean Cultural Heritage corpus for Entity-related Tasks <br/> 
 <span style="color:rgb(73, 120, 173)"> The 29th International Conference on Computational Linguistics (COLING 2022) </span> <br/> 
@@ -122,6 +117,10 @@ Kyuho Shim, Sugyeong Eo, **Jinsung Kim**, Seongtae Hong, Sangyoon Jun, Hoondong 
 <span style="color:rgb(73, 120, 173)"> The 35th Annual Conference on Human & Cognitive Language Technology (HCLT 2023, 한글 및 한국어정보처리 학술대회) </span> <br/>
 Junyoung Son, **Jinsung Kim**, Jungwoo Lim, Yoonna Jang, Aram So, and Heuiseok Lim
 <br/>
+* An Empirical Study on the Length Granularity in Long-Form Question Answering <br/> 
+<span style="color:rgb(73, 120, 173)"> The 18th Asia Pacific International Conference
+on Information Science and Technology (APIC-IST 2023, Best Paper) </span> <br/> 
+Hyeonseok Moon, **Jinsung Kim**, Kinam Park, Jeongbae Park, and Heuiseok Lim <br/>
 * Domain-specific Korean Relation Extraction system using Prompt with Meta-Information (메타 정보를 활용한 프롬프트 기반 도메인 특화 한국어 관계 추출) <br/> 
 <span style="color:rgb(73, 120, 173)"> The 34th Annual Conference on Human & Cognitive Language Technology (HCLT 2022, 한글 및 한국어정보처리 학술대회) </span> <br/>
 **Jinsung Kim**, Gyeongmin Kim, Junyoung Son, Aram So, and Heuiseok Lim
