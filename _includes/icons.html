@@ -64,23 +64,45 @@
 </li>
 {% endif %}
 
+{% if site.social.linkedin %}
+<li>
+  <a href="{{ site.social.linkedin }}" title="{{ site.social.default_txt }} LinkedIn">
+    <span class="fa-stack fa-lg">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+    </span>
+  </a>
+</li>
+{% endif %}
+
+<!--{% if site.social.google_plus %}-->
+<!--<li>-->
+<!--  <a href="https://plus.google.com/{{ site.social.google_plus }}" title="{{ site.social.default_txt }} Google+">-->
+<!--    <span class="fa-stack fa-lg">-->
+<!--      <i class="fa fa-circle fa-stack-2x"></i>-->
+<!--      <i class="fab fa-google-plus fa-stack-1x fa-inverse"></i>-->
+<!--    </span>-->
+<!--  </a>-->
+<!--</li>-->
+<!--{% endif %}-->
+
+{% if site.social.google_plus %}
+<li>
+  <a href="{{ site.social.google_plus }}" title="{{ site.social.default_txt }} Google Scholar">
+    <span class="fa-stack fa-lg">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fab fa-google-plus fa-stack-1x fa-inverse"></i>
+    </span>
+  </a>
+</li>
+{% endif %}
+
 {% if site.social.github %}
 <li>
   <a href="https://github.com/{{ site.social.github }}" title="{{ site.social.default_txt }} GitHub">
     <span class="fa-stack fa-lg">
       <i class="fa fa-circle fa-stack-2x"></i>
       <i class="fab fa-github fa-stack-1x fa-inverse"></i>
-    </span>
-  </a>
-</li>
-{% endif %}
-
-{% if site.social.google_plus %}
-<li>
-  <a href="https://plus.google.com/{{ site.social.google_plus }}" title="{{ site.social.default_txt }} Google+">
-    <span class="fa-stack fa-lg">
-      <i class="fa fa-circle fa-stack-2x"></i>
-      <i class="fab fa-google-plus fa-stack-1x fa-inverse"></i>
     </span>
   </a>
 </li>
@@ -103,17 +125,6 @@
     <span class="fa-stack fa-lg">
       <i class="fa fa-circle fa-stack-2x"></i>
       <i class="fa fa-key fa-stack-1x fa-inverse"></i>
-    </span>
-  </a>
-</li>
-{% endif %}
-
-{% if site.social.linkedin %}
-<li>
-  <a href="{{ site.social.linkedin }}" title="{{ site.social.default_txt }} LinkedIn">
-    <span class="fa-stack fa-lg">
-      <i class="fa fa-circle fa-stack-2x"></i>
-      <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
     </span>
   </a>
 </li>
