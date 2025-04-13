@@ -1,12 +1,12 @@
 ---
 layout: about 
----
-[//]: # (Please check my [CV]&#40;https://drive.google.com/file/d/1OIubJzknuk7bAkOjLuTYHHNBPVkzwjoe/view?usp=sharing&#41; and [Google Scholar]&#40;https://scholar.google.com/citations?user=ubIxtk8AAAAJ&hl=ko&#41;! )
+--- 
 # About Me
 I'm interested in Natural Language Processing and Deep Learning. <br /> Currently, I am a graduate student and advised by Prof. [Heuiseok Lim](https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&hl=ko&oi=ao)  in the [NLP & AI Lab](http://nlp.korea.ac.kr/). 
+<br/>
+Please check my [CV](https://drive.google.com/file/d/1N3gxQ2zqnkfRaSCDM7T-Ikva973CykZD/view?usp=drive_link) 🤗! 
 
 **Contact: jin62304@gmail.com**
-<br/>
 
 # News
 * 09/2024 "PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models" has been accepted to <span style="color:rgb(73, 120, 173)">EMNLP 2024</span>.
