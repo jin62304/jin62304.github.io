@@ -9,14 +9,14 @@ Please check my [CV](https://drive.google.com/file/d/1N3gxQ2zqnkfRaSCDM7T-Ikva97
 **Contact: jin62304@gmail.com**
 
 # News
-* 09/2024 "PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models" has been accepted to <span style="color:rgb(73, 120, 173)">EMNLP 2024</span>.
-* 09/2024 "Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts" has been accepted to <span style="color:rgb(73, 120, 173)">EMNLP 2024</span>.
-* 09/2024 "Search if you don't know! Knowledge-Augmented Korean Grammatical Error Correction with Large Language Models" has been accepted to <span style="color:rgb(73, 120, 173)">Findings of EMNLP 2024</span>.
+* 08/2025 "Semantic Inversion, Identical Replies: Revisiting Negation Blindness in Large Language Models" has been accepted to <span style="color:rgb(73, 120, 173)">EMNLP 2025</span>.
+* 08/2025 "HAWK: Highlighting Entity-aware Knowledge for Alleviating Information Sparsity in Long Contexts" has been accepted to <span style="color:rgb(73, 120, 173)">Findings of EMNLP 2025</span>.
+* 08/2025 "LimaCost: Data Valuation for Instruction Tuning of Large Language Models" has been accepted to <span style="color:rgb(73, 120, 173)">Findings of EMNLP 2025</span>.
 
 # Research Interest
 * Natural Language Processing
 * Dialogue System
-* Information Extraction and Retrieval
+* Information Extraction
 * Large Language Model
 * Deep Learning
 <br/>
@@ -24,18 +24,34 @@ Please check my [CV](https://drive.google.com/file/d/1N3gxQ2zqnkfRaSCDM7T-Ikva97
 # Education
 * Korea University (2021/03 - Present)
   * Ph.D. Candidate in Computer Science & Engineering
-  * Natural Language Processing and Artificial Intelligence Applications 
+  * Natural Language Processing and Artificial Intelligence 
 
 * Korea University (2013/03 - 2019/02)
-  * B.S Degree Graduate in Spanish Language & Literature
-  * Double majored in Language, Brain & Computer (LB & C)
+  * B.S Degree Graduate in 
+  1. Spanish Language & Literature
+  2. Language, Brain & Computer (LB&C)
 <br/>
 
 # Publications
 
 ### International Conference
+* Semantic Inversion, Identical Replies: Revisiting Negation Blindness in Large Language Models <br/> 
+<span style="color:rgb(73, 120, 173)"> The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Main)
+ </span> <br/> 
+**Jinsung Kim**, Seonmin Koo, and Heuiseok Lim 
+ <br/>
+* HAWK: Highlighting Entity-aware Knowledge for Alleviating Information Sparsity in Long Contexts <br/> 
+<span style="color:rgb(73, 120, 173)"> The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Findings)
+ </span> <br/> 
+Seonmin Koo, **Jinsung Kim**, Chanjun Park, and Heuiseok Lim 
+ <br/>
+* LimaCost: Data Valuation for Instruction Tuning of Large Language Models <br/> 
+<span style="color:rgb(73, 120, 173)"> The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Findings)
+ </span> <br/>
+Hyeonseok Moon, Jaehyung Seo, Seonmin Koo, **Jinsung Kim**, Young-kyoung Ham, jiwon moon, and Heuiseok Lim
+ <br/>
 * PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models <br/> 
-<span style="color:rgb(73, 120, 173)"> The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Main, Oral Presentation)
+<span style="color:rgb(73, 120, 173)"> The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Main, **Oral Presentation**)
  </span> <br/> 
 **Jinsung Kim**, Seonmin Koo, and Heuiseok Lim 
  <br/>
