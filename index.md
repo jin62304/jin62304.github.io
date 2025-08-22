@@ -28,12 +28,11 @@ Please check my [CV](https://drive.google.com/file/d/1N3gxQ2zqnkfRaSCDM7T-Ikva97
 
 * Korea University (2013/03 - 2019/02)
   * B.S Degree Graduate in 
-  1. Spanish Language & Literature
-  2. Language, Brain & Computer (LB&C)
+    * Spanish Language & Literature
+    * Language, Brain & Computer (LB&C)
 <br/>
 
 # Publications
-
 ### International Conference
 * Semantic Inversion, Identical Replies: Revisiting Negation Blindness in Large Language Models <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Main)
