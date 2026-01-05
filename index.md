@@ -9,9 +9,7 @@ Please check my [CV](https://drive.google.com/file/d/1JNyjKTnGshbvhjnar1voTD_G_Q
 **Contact: jin62304@gmail.com**
 
 # News
-* 08/2025 "Semantic Inversion, Identical Replies: Revisiting Negation Blindness in Large Language Models" has been accepted to <span style="color:rgb(73, 120, 173)">EMNLP 2025</span>.
-* 08/2025 "HAWK: Highlighting Entity-aware Knowledge for Alleviating Information Sparsity in Long Contexts" has been accepted to <span style="color:rgb(73, 120, 173)">Findings of EMNLP 2025</span>.
-* 08/2025 "LimaCost: Data Valuation for Instruction Tuning of Large Language Models" has been accepted to <span style="color:rgb(73, 120, 173)">Findings of EMNLP 2025</span>.
+* 01/2026 "I Know, but I Don't Know! How Persona Conflict Undermines Instruction Adherence in Large Language Models" has been accepted to <span style="color:rgb(73, 120, 173)">Findings of EACL 2026</span>.
 
 # Research Interest
 * Natural Language Processing
@@ -34,6 +32,12 @@ Please check my [CV](https://drive.google.com/file/d/1JNyjKTnGshbvhjnar1voTD_G_Q
 
 # Publications
 ### International Conference
+* I Know, but I Don't Know! How Persona Conflict Undermines Instruction Adherence in Large Language Models
+ <br/> 
+<span style="color:rgb(73, 120, 173)"> The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 Findings)
+ </span> <br/> 
+Seonmin Koo, **Jinsung Kim**, and Heuiseok Lim
+<br/>
 * Semantic Inversion, Identical Replies: Revisiting Negation Blindness in Large Language Models <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Main)
  </span> <br/> 
@@ -114,15 +118,28 @@ Gyeongmin Kim, Junyoung Son, **Jinsung Kim**, Hyunhee Lee, and Heuiseok Lim
 <br/>
 
 ### Domestic Conference
+* Data Augmentation for Negotiation Dialogues in E-Commerce via Scenario Transfer (시나리오 전이를 활용한 전자상거래 환경에서의 협상 대화 데이터 증강) <br/>
+<span style="color:rgb(73, 120, 173)"> The 2025 Joint Conference on Human and Cognitive Language Technology, 
+Korean Association for Corpus Linguistics (HCLT-KACL 2025, 한글 및 한국어 정보처리 & 한국코퍼스언어학회 공동 학술대회) </span> <br/>
+**Jinsung Kim**, Seonmin Koo, Kinam Park, and Heuiseok Lim
+<br/>
+* A Study on the Persona Updating Capabilities of Large Language Models in Dialogue (대화 상황에서 거대 언어 모델의 페르소나 갱신 능력 검증 연구)<br/>
+<span style="color:rgb(73, 120, 173)"> The 2025 Joint Conference on Human and Cognitive Language Technology, 
+Korean Association for Corpus Linguistics (HCLT-KACL 2025, 한글 및 한국어 정보처리 & 한국코퍼스언어학회 공동 학술대회) </span> <br/>
+Seonmin Koo, **Jinsung Kim**, Kinam Park, and Heuiseok Lim
+<br/>
 * Exploring Korean Question Answering Ability of Large Language Model by Question Corruption (질의 변형에 따른 거대 언어모델의 한국어 질의응답 능력 연구)<br/>
-<span style="color:rgb(73, 120, 173)"> The 36th Annual Conference on Human & Cognitive Language Technology (HCLT 2024, 한글 및 한국어정보처리 학술대회) </span> <br/>
+<span style="color:rgb(73, 120, 173)"> The 2024 Joint Conference on Human and Cognitive Language Technology, 
+Korean Association for Corpus Linguistics (HCLT-KACL 2024, 한글 및 한국어 정보처리 & 한국코퍼스언어학회 공동 학술대회) </span> <br/>
 **Jinsung Kim**, Seonmin Koo, Kinam Park, and Heuiseok Lim
 <br/>
 * Examining the Ability of Large Language Model on Entity-Based Korean Question-Answering (엔티티 기반 추론을 통한 거대 언어 모델의 한국어 질의응답 능력 연구)<br/>
-<span style="color:rgb(73, 120, 173)">The 36th Annual Conference on Human & Cognitive Language Technology (HCLT 2024, 한글 및 한국어정보처리 학술대회)</span> <br/>
+<span style="color:rgb(73, 120, 173)">The 2024 Joint Conference on Human and Cognitive Language Technology, 
+Korean Association for Corpus Linguistics (HCLT-KACL 2024, 한글 및 한국어 정보처리 & 한국코퍼스언어학회 공동 학술대회)</span> <br/>
 Seonmin Koo, **Jinsung Kim**, Chanjun Park, Kinam Park, and Heuiseok Lim
 * Mixture of Models: Towards Effective Domain Expert Ensemble of Large Language Models (Mixture of Models: 거대 언어모델 기반 효과적 도메인 전문가 앙상블 기법 연구)<br/>
-<span style="color:rgb(73, 120, 173)">The 36th Annual Conference on Human & Cognitive Language Technology (HCLT 2024, 한글 및 한국어정보처리 학술대회)</span> <br/>
+<span style="color:rgb(73, 120, 173)">The 2024 Joint Conference on Human and Cognitive Language Technology, 
+Korean Association for Corpus Linguistics (HCLT-KACL 2024, 한글 및 한국어 정보처리 & 한국코퍼스언어학회 공동 학술대회)</span> <br/>
 Kyuho Shim, Sugyeong Eo, **Jinsung Kim**, Seongtae Hong, Sangyoon Jun, Hoondong Kim, and Heuiseok Lim
 * A Comparative Study on Korean Zero-shot Relation Extraction using a Large Language Model (거대 언어 모델을 활용한 한국어 제로샷 관계 추출 비교 연구) <br/> 
 <span style="color:rgb(73, 120, 173)"> The 35th Annual Conference on Human & Cognitive Language Technology (HCLT 2023, 한글 및 한국어정보처리 학술대회) </span> <br/>
