@@ -4,7 +4,7 @@ layout: about
 # About Me
 I'm interested in Natural Language Processing and Deep Learning. <br /> Currently, I am a graduate student and advised by Prof. [Heuiseok Lim](https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&hl=ko&oi=ao)  in the [NLP&AI Lab](http://nlp.korea.ac.kr/). 
 <br/>
-Please check my [CV](https://drive.google.com/file/d/1Ku52wgapsJj-bk9F2fIkmZzBa1HSXJK1/view?usp=sharing) 🤗!
+Please check my [CV](https://drive.google.com/file/d/1qs5G7LLl0xX14MxJpyFV7rT-9AVIKePO/view?usp=sharing) 🤗!
 
 **Contact: jin62304@gmail.com**
 
