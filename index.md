@@ -2,9 +2,9 @@
 layout: about 
 --- 
 # About Me
-I'm interested in Natural Language Processing and Deep Learning. <br /> Currently, I am a graduate student and advised by Prof. [Heuiseok Lim](https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&hl=ko&oi=ao)  in the [NLP&AI Lab](http://nlp.korea.ac.kr/). 
+I'm interested in Natural Language Processing (NLP) and Large Language Models (LLMs). <br /> Currently, I am a Ph.D. student and advised by Prof. [Heuiseok Lim](https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&hl=ko&oi=ao)  in the [NLP&AI Lab](http://nlp.korea.ac.kr/). I am scheduled to graduate in this August. 
 <br/>
-Please check my [CV](https://drive.google.com/file/d/1qs5G7LLl0xX14MxJpyFV7rT-9AVIKePO/view?usp=sharing) 🤗!
+Please check my [CV](https://drive.google.com/file/d/10VP6M1zPNI3mdls5ApnVtWdLFQnPviD-/view?usp=sharing) 🤗!
 
 **Contact: jin62304@gmail.com**
 
@@ -13,14 +13,14 @@ Please check my [CV](https://drive.google.com/file/d/1qs5G7LLl0xX14MxJpyFV7rT-9A
 
 # Research Interest
 * Natural Language Processing
-* Dialogue System
-* Information Extraction
-* Large Language Model
+* Dialogue and Interactive Systems
+* Information Extraction and Knowledge Grounding
+* Large Language Models
 * Deep Learning
 <br/>
 
 # Education
-* Korea University (2021/03 - Present)
+* Korea University (2021/03 - 2026/08)
   * Ph.D. Candidate in Computer Science & Engineering 
   * Natural Language Processing and Artificial Intelligence (NLP&AI) Lab.
 
